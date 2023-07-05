@@ -1,0 +1,9 @@
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Needleman-Wunsch-Algoritması\Needleman-Wunsch-Algoritması\bin\Debug\Needleman-Wunsch-Algoritması.exe.config
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Needleman-Wunsch-Algoritması\Needleman-Wunsch-Algoritması\bin\Debug\Needleman-Wunsch-Algoritması.exe
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Needleman-Wunsch-Algoritması\Needleman-Wunsch-Algoritması\bin\Debug\Needleman-Wunsch-Algoritması.pdb
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Needleman-Wunsch-Algoritması\Needleman-Wunsch-Algoritması\obj\Debug\Needleman-Wunsch-Algoritması.csprojResolveAssemblyReference.cache
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Needleman-Wunsch-Algoritması\Needleman-Wunsch-Algoritması\obj\Debug\Needleman_Wunsch_Algoritması.Form1.resources
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Needleman-Wunsch-Algoritması\Needleman-Wunsch-Algoritması\obj\Debug\Needleman_Wunsch_Algoritması.Properties.Resources.resources
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Needleman-Wunsch-Algoritması\Needleman-Wunsch-Algoritması\obj\Debug\Needleman-Wunsch-Algoritması.csproj.GenerateResource.Cache
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Needleman-Wunsch-Algoritması\Needleman-Wunsch-Algoritması\obj\Debug\Needleman-Wunsch-Algoritması.exe
+C:\Users\aksoy\OneDrive\Masaüstü\Biyoinformatik\Needleman-Wunsch-Algoritması\Needleman-Wunsch-Algoritması\obj\Debug\Needleman-Wunsch-Algoritması.pdb
